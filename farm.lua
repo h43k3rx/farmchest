@@ -67,7 +67,6 @@ local function obfuscated_fn_1()
         end
     end)
 
-    -- Additional buttons and functionalities are obfuscated similarly here...
 end
 
 obfuscated_fn_1()
